@@ -12,12 +12,11 @@ input{
   border: 1px solid grey;
   padding: 5px;
   margin-top: 5px;
-}
-button{
-  margin-top: 15px;
+  width: 100%;
 }
 
-button,
-input{
-  width: 100%
+button{
+  margin-top: 20px;
+  margin-left: 25%;
+  width: 50%;
 }
