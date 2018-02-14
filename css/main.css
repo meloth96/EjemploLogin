@@ -3,6 +3,7 @@ section{
 }
 label,
 input{
+  margin-top: 10px;
   display: block;
   width: 100%;
 }
@@ -11,6 +12,9 @@ input{
   border: 1px solid grey;
   padding: 5px;
   margin-top: 5px;
+}
+button{
+  margin-top: 15px;
 }
 
 button,
